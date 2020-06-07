@@ -1,0 +1,15 @@
+.scroll-container {
+  white-space: nowrap;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.scroll-container /deep/ .el-scrollbar__bar {
+  bottom: 0px;
+}
+
+.scroll-container /deep/ .el-scrollbar__wrap {
+  height: 49px;
+}
+/*# sourceMappingURL=scrollPane.css.map */

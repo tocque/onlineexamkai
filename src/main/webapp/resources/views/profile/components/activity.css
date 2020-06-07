@@ -1,0 +1,71 @@
+.user-activity .user-block .username,
+.user-activity .user-block .description {
+  display: block;
+  margin-left: 0px;
+  padding: 2px 0;
+}
+
+.user-activity .user-block .username {
+  font-size: 16px;
+  color: #000;
+}
+
+.user-activity .user-block :after {
+  clear: both;
+}
+
+.user-activity .user-block .img-circle {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  float: left;
+}
+
+.user-activity .user-block span {
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.user-activity .post {
+  font-size: 14px;
+  border-bottom: 1px solid #d2d6de;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  color: #666;
+}
+
+.user-activity .post .image {
+  width: 100%;
+  height: 100%;
+}
+
+.user-activity .post .user-images {
+  padding-top: 20px;
+}
+
+.user-activity .list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+
+.user-activity .list-inline li {
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 13px;
+}
+
+.user-activity .list-inline .link-black:hover, .user-activity .list-inline .link-black:focus {
+  color: #999;
+}
+
+.box-center {
+  margin: 0 auto;
+  display: table;
+}
+
+.text-muted {
+  color: #777;
+}
+/*# sourceMappingURL=activity.css.map */
