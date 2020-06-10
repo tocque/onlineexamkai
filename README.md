@@ -2,7 +2,7 @@
 
 **系统环境：Windows**
 
-**开发工具：Intellij IDEA**
+**开发工具：Intellij IDEA/VSCode**
 
 **Java版本：JDK 1.8**
 
@@ -10,13 +10,13 @@
 
 **数据库：MySQL 5.7**
 
-**系统采用技术： spring+springMVC+mybaits+EasyUI+jQuery+Ajax+面向接口编程**
+**系统采用技术： springMVC+mybaits/Vue+ElementUI+AMEF+Axios**
 
 **后台管理系统**
 
-**用户名：admin**
+用户名：admin
 
-**密码：admin**
+密码：admin123
 
 **数据库文件**
 
