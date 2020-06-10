@@ -22,6 +22,3 @@
 
 db_database.sql
 
-**试题导入模板**
-
-导入模板文件.xls
